@@ -45,7 +45,7 @@ A simple and interactive Wordle-style word guessing game. Try to guess the hidde
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 .
 ├── index.html     # Main UI
@@ -55,5 +55,5 @@ A simple and interactive Wordle-style word guessing game. Try to guess the hidde
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 Made by Hiral
