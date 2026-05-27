@@ -1,1 +1,0 @@
-const ANSWER_LIST = ["ABOUT", "FRESH", "SCALP", "APPLE", "BRAIN", "LIGHT", "WORLD"];

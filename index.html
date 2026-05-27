@@ -11,11 +11,23 @@
     <h1>WORDLE</h1>
   </header>
 
+  <div id="banner"></div>
+
   <div id="board-container">
     <div id="board"></div>
   </div>
 
   <div id="keyboard"></div>
+
+  <!-- Lose overlay -->
+  <div id="overlay">
+    <div id="overlay-box">
+      <p id="overlay-title">😞 You Lost!</p>
+      <p id="overlay-msg">The word was</p>
+      <p id="overlay-word"></p>
+      <button id="play-again-btn">Play Again</button>
+    </div>
+  </div>
 
   <script src="words.js"></script>
   <script src="game.js"></script>
